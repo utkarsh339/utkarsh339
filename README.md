@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Utkarsh
 
-<!--
-**utkarsh339/utkarsh339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- Software Engineer
+- Currently working as a Dotnet Developer
+- Learning Backend Development using C# and ASP.NET Core
+- Preparing for Product-Based Company Interviews
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- C#
+- .NET
+- ASP.NET Core
+- SQL Server
+- Git
+- GitHub
+- Azure (Learning)
+
+---
+
+## Currently Learning
+
+- ASP.NET Core
+- REST APIs
+- Microservices
+- Docker
+- Azure
+- System Design
+- DSA
+
+---
+
+## Goals for 2026
+
+- Crack Microsoft SDE
+- Become an expert in Backend Engineering
+- Build production-level projects
+- Solve 500+ DSA problems
+
+---
+
+## Contact
+
+GitHub:
+https://github.com/utkarsh339
+
+LinkedIn:
+https://www.linkedin.com/in/utkarsh-r-22b7091a7/
+
+LeetCode:
+https://leetcode.com/u/__utkarsh__/
