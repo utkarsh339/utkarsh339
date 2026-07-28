@@ -35,7 +35,6 @@
 
 ## Goals for 2026
 
-- Crack Microsoft SDE
 - Become an expert in Backend Engineering
 - Build production-level projects
 - Solve 500+ DSA problems
